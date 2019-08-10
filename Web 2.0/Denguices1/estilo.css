@@ -1,0 +1,50 @@
+body {
+	background: #f8e0e0 url(imagens/fundo.png);
+	font: 16px, Arial, Helvetica, Sans-serif; 
+}
+
+#principal {
+	width: 90%;
+}
+
+#menu {
+	background-color: #F7F2E0;
+	padding: 18px;
+	text-align: center;
+}
+
+a {
+	color: #F78181;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#conteudo {
+	background-color: #F2F2F2;
+	padding: 18px;
+	text-align: center;
+}
+
+h1 {
+	color: #F78181;
+}
+
+p {
+	color: #151515;
+}
+
+#rodape {
+	text-align: center;
+}
+
+h3 {
+	color: #DE7D48;
+}
+
+.img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 90%;
+}
